@@ -1,0 +1,11 @@
+KONTRIBUSI
+
+Fajri Awwaluddin	: Membuat dan mencari Source Code program serta membuat data test 
+Ilham Maulana Ramadhan	: Membuat paper dan Menjadi bahan Dataset
+Muhamad Arif Maulana	: Mencari ide project, Membuat paper dan membantu mencari source code serta membuat pengumpulan tugas UAS
+Nur Syifa Maulida	: Membuat paper dan membantu mencari source code
+
+LINK
+
+Gdrive : https://drive.google.com/drive/folders/1cxAUa6FjDzPoOyeqk12isfltp_hA9S8q
+GitHub : https://github.com/velmores/Program_UAS.git
